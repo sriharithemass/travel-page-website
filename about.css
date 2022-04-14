@@ -1,0 +1,12 @@
+header{
+    position: static;
+    background-color: rgb(41, 41, 41);
+}
+
+main p{
+    background-color: aquamarine;
+    margin: 0;
+    text-align: center;
+    font-size: 200px;
+    padding:600px 0;
+}
